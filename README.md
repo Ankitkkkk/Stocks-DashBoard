@@ -36,4 +36,4 @@ Stock Dashboard uses a number of open source Technology:
 - [Crud Repository] - For fast Implementation of basic CRUD operation 
 - [Lombok] - To avoid boiler plate code
 
-## Use "postman.json" for importing the postman Calls that i Have Done
+## Use "postman.json" for importing the postman Calls that I have made
