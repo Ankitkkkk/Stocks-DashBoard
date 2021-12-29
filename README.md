@@ -2,7 +2,7 @@
 ## _Before Using it please Configure things as follows_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
 
 Please add Your JDBC Driver in pom.xml file
 
